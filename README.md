@@ -7,8 +7,8 @@ Twenty years in infrastructure, the last eight leading platform, SRE, and DevOps
 What is here:
 
 - [onebk.io](https://github.com/1beekay/onebk.io): my site, plain HTML in a repo I deploy myself
-- [engineering-career-ladder](https://github.com/1beekay/engineering-career-ladder): the IC to VP career ladder framework I have built and run in real orgs
-- [ai-first-engineering](https://github.com/1beekay/ai-first-engineering): the playbook for taking an engineering org to AI as the default way work gets done
+- [career_ladder](https://github.com/1beekay/career_ladder): the IC to VP career ladder framework I have built and run in real orgs
+- [ai_first_engineering](https://github.com/1beekay/ai_first_engineering): the playbook for taking an engineering org to AI as the default way work gets done
 
 Elsewhere:
 
