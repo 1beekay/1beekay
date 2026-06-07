@@ -15,5 +15,3 @@ Elsewhere:
 - Site: [onebk.io](https://onebk.io)
 - LinkedIn: [robert-bk](https://www.linkedin.com/in/robert-bk/)
 - Email: rob@onebk.io
-
-Currently exploring Director, Senior Director, and VP Platform opportunities.
